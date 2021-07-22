@@ -1,0 +1,3344 @@
+{
+  "id": "60f538326c9c6c8f734c4a58",
+  "name": "proyecto-front-end",
+  "desc": "",
+  "descData": null,
+  "closed": false,
+  "dateClosed": null,
+  "idOrganization": "60420ed8a534346af508fdf8",
+  "shortLink": "MEM8sZVr",
+  "powerUps": [],
+  "dateLastActivity": "2021-07-22T07:43:31.080Z",
+  "idTags": [],
+  "datePluginDisable": null,
+  "creationMethod": "automatic",
+  "idBoardSource": null,
+  "idMemberCreator": "581b0b46d9959f03163a1377",
+  "idEnterprise": null,
+  "pinned": false,
+  "starred": false,
+  "url": "https://trello.com/b/MEM8sZVr/proyecto-front-end",
+  "shortUrl": "https://trello.com/b/MEM8sZVr",
+  "enterpriseOwned": false,
+  "ixUpdate": "156",
+  "limits": {
+    "attachments": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 36000,
+        "warnAt": 32400
+      },
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 900
+      }
+    },
+    "boards": {
+      "totalMembersPerBoard": {
+        "status": "ok",
+        "disableAt": 1600,
+        "warnAt": 1440
+      }
+    },
+    "cards": {
+      "openPerBoard": {
+        "status": "ok",
+        "disableAt": 5000,
+        "warnAt": 4500
+      },
+      "openPerList": {
+        "status": "ok",
+        "disableAt": 5000,
+        "warnAt": 4500
+      },
+      "totalPerBoard": {
+        "status": "ok",
+        "disableAt": 2000000,
+        "warnAt": 1800000
+      },
+      "totalPerList": {
+        "status": "ok",
+        "disableAt": 1000000,
+        "warnAt": 900000
+      }
+    },
+    "checklists": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 2000000,
+        "warnAt": 1800000
+      },
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 450
+      }
+    },
+    "checkItems": {
+      "perChecklist": {
+        "status": "ok",
+        "disableAt": 200,
+        "warnAt": 180
+      }
+    },
+    "customFields": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 50,
+        "warnAt": 45
+      }
+    },
+    "customFieldOptions": {
+      "perField": {
+        "status": "ok",
+        "disableAt": 50,
+        "warnAt": 45
+      }
+    },
+    "labels": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 900
+      }
+    },
+    "lists": {
+      "openPerBoard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 450
+      },
+      "totalPerBoard": {
+        "status": "ok",
+        "disableAt": 3000,
+        "warnAt": 2700
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 63
+      }
+    },
+    "reactions": {
+      "perAction": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 900
+      },
+      "uniquePerAction": {
+        "status": "ok",
+        "disableAt": 17,
+        "warnAt": 16
+      }
+    }
+  },
+  "subscribed": false,
+  "templateGallery": null,
+  "premiumFeatures": [],
+  "prefs": {
+    "permissionLevel": "private",
+    "hideVotes": false,
+    "voting": "disabled",
+    "comments": "members",
+    "invitations": "members",
+    "selfJoin": false,
+    "cardCovers": true,
+    "isTemplate": false,
+    "cardAging": "regular",
+    "calendarFeedEnabled": false,
+    "background": "blue",
+    "backgroundImage": null,
+    "backgroundImageScaled": null,
+    "backgroundTile": false,
+    "backgroundBrightness": "dark",
+    "backgroundColor": "#0079BF",
+    "backgroundBottomColor": "#0079BF",
+    "backgroundTopColor": "#0079BF",
+    "canBePublic": true,
+    "canBeEnterprise": true,
+    "canBeOrg": true,
+    "canBePrivate": true,
+    "canInvite": true
+  },
+  "dateLastView": "2021-07-22T07:44:46.793Z",
+  "labelNames": {
+    "green": "",
+    "yellow": "",
+    "orange": "",
+    "red": "",
+    "purple": "",
+    "blue": "",
+    "sky": "",
+    "lime": "",
+    "pink": "",
+    "black": ""
+  },
+  "actions": [
+    {
+      "id": "60f921a30373366854143fd8",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "pos": 163839
+        },
+        "card": {
+          "pos": 655359,
+          "id": "60f921a15c1c694cb28e4586",
+          "name": "Integración API Pixabay",
+          "idShort": 8,
+          "shortLink": "NnnNRads"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "list": {
+          "id": "60f538326c9c6c8f734c4a5b",
+          "name": "Hecho"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-22T07:43:31.088Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f921a30373366854143fd3",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "idList": "60f538326c9c6c8f734c4a59"
+        },
+        "card": {
+          "idList": "60f538326c9c6c8f734c4a5b",
+          "id": "60f921a15c1c694cb28e4586",
+          "name": "Integración API Pixabay",
+          "idShort": 8,
+          "shortLink": "NnnNRads"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "listBefore": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "listAfter": {
+          "id": "60f538326c9c6c8f734c4a5b",
+          "name": "Hecho"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-22T07:43:31.069Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f921a15c1c694cb28e458a",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "card": {
+          "id": "60f921a15c1c694cb28e4586",
+          "name": "Integración API Pixabay",
+          "idShort": 8,
+          "shortLink": "NnnNRads"
+        },
+        "list": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        }
+      },
+      "type": "createCard",
+      "date": "2021-07-22T07:43:29.860Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f9215943172002383f4e58",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "pos": 393215
+        },
+        "card": {
+          "pos": 589823,
+          "id": "60f538a89dd1565791376dda",
+          "name": "Creación de componente Autenticación y Registro",
+          "idShort": 4,
+          "shortLink": "YuiSbCB5"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "list": {
+          "id": "60f538326c9c6c8f734c4a5b",
+          "name": "Hecho"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-22T07:42:17.534Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f9215943172002383f4e53",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "idList": "60f538326c9c6c8f734c4a59"
+        },
+        "card": {
+          "idList": "60f538326c9c6c8f734c4a5b",
+          "id": "60f538a89dd1565791376dda",
+          "name": "Creación de componente Autenticación y Registro",
+          "idShort": 4,
+          "shortLink": "YuiSbCB5"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "listBefore": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "listAfter": {
+          "id": "60f538326c9c6c8f734c4a5b",
+          "name": "Hecho"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-22T07:42:17.507Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f9214c8a4942223f4d933d",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "pos": 458751
+        },
+        "card": {
+          "pos": 524287,
+          "id": "60f9214bbc040f8476578e6d",
+          "name": "Creación componente Lista de PostCard",
+          "idShort": 7,
+          "shortLink": "MvpnpQ7r"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "list": {
+          "id": "60f538326c9c6c8f734c4a5b",
+          "name": "Hecho"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-22T07:42:04.328Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f9214c8a4942223f4d9338",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "idList": "60f538326c9c6c8f734c4a59"
+        },
+        "card": {
+          "idList": "60f538326c9c6c8f734c4a5b",
+          "id": "60f9214bbc040f8476578e6d",
+          "name": "Creación componente Lista de PostCard",
+          "idShort": 7,
+          "shortLink": "MvpnpQ7r"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "listBefore": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "listAfter": {
+          "id": "60f538326c9c6c8f734c4a5b",
+          "name": "Hecho"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-22T07:42:04.307Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f9214bbc040f8476578e71",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "card": {
+          "id": "60f9214bbc040f8476578e6d",
+          "name": "Creación componente Lista de PostCard",
+          "idShort": 7,
+          "shortLink": "MvpnpQ7r"
+        },
+        "list": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        }
+      },
+      "type": "createCard",
+      "date": "2021-07-22T07:42:03.130Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f92134172fad1ab2caf62a",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "idList": "60f538326c9c6c8f734c4a59"
+        },
+        "card": {
+          "idList": "60f538326c9c6c8f734c4a5b",
+          "id": "60f9213223bfbd574c7a1654",
+          "name": "Spike: Framework IONIC",
+          "idShort": 6,
+          "shortLink": "To5pqWdt"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "listBefore": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "listAfter": {
+          "id": "60f538326c9c6c8f734c4a5b",
+          "name": "Hecho"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-22T07:41:40.126Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f9213223bfbd574c7a1658",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "card": {
+          "id": "60f9213223bfbd574c7a1654",
+          "name": "Spike: Framework IONIC",
+          "idShort": 6,
+          "shortLink": "To5pqWdt"
+        },
+        "list": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        }
+      },
+      "type": "createCard",
+      "date": "2021-07-22T07:41:38.549Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f8058462661f659ae19d9b",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "idList": "60f538326c9c6c8f734c4a5a"
+        },
+        "card": {
+          "idList": "60f538326c9c6c8f734c4a59",
+          "id": "60f538a89dd1565791376dda",
+          "name": "Creación de componente Autenticación y Registro",
+          "idShort": 4,
+          "shortLink": "YuiSbCB5"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "listBefore": {
+          "id": "60f538326c9c6c8f734c4a5a",
+          "name": "En proceso"
+        },
+        "listAfter": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-21T11:31:16.175Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f8057c1c7f2479cfe7d2e4",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "pos": 262143
+        },
+        "card": {
+          "pos": 393215,
+          "id": "60f538a89dd1565791376dda",
+          "name": "Creación de componente Autenticación y Registro",
+          "idShort": 4,
+          "shortLink": "YuiSbCB5"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "list": {
+          "id": "60f538326c9c6c8f734c4a5a",
+          "name": "En proceso"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-21T11:31:08.784Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f8057aa0dccf89425193d3",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "idList": "60f538326c9c6c8f734c4a59"
+        },
+        "card": {
+          "idList": "60f538326c9c6c8f734c4a5a",
+          "id": "60f538a89dd1565791376dda",
+          "name": "Creación de componente Autenticación y Registro",
+          "idShort": 4,
+          "shortLink": "YuiSbCB5"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "listBefore": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "listAfter": {
+          "id": "60f538326c9c6c8f734c4a5a",
+          "name": "En proceso"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-21T11:31:06.562Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f805736f37496534eb3191",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "card": {
+          "id": "60f5388f7cb9a618218d8d4a",
+          "name": "Arquitectura Aplicación",
+          "idShort": 2,
+          "shortLink": "1nibTF8m"
+        },
+        "checklist": {
+          "id": "60f5639df12ba5421e84c1d3",
+          "name": "Creación proyecto"
+        },
+        "checkItem": {
+          "id": "60f5642ebbbb1609615d23b7",
+          "name": "Crear componentes @angular/ionoc",
+          "state": "complete"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2021-07-21T11:30:59.726Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f80571c496303e0626a3df",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "card": {
+          "id": "60f5388f7cb9a618218d8d4a",
+          "name": "Arquitectura Aplicación",
+          "idShort": 2,
+          "shortLink": "1nibTF8m"
+        },
+        "checklist": {
+          "id": "60f5639df12ba5421e84c1d3",
+          "name": "Creación proyecto"
+        },
+        "checkItem": {
+          "id": "60f563c0b43d990a40ceadc2",
+          "name": "Añadir wireframes proyecto fornt-end",
+          "state": "complete"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2021-07-21T11:30:57.465Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f80570a91fd465cdf518b3",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "card": {
+          "id": "60f5388f7cb9a618218d8d4a",
+          "name": "Arquitectura Aplicación",
+          "idShort": 2,
+          "shortLink": "1nibTF8m"
+        },
+        "checklist": {
+          "id": "60f5639df12ba5421e84c1d3",
+          "name": "Creación proyecto"
+        },
+        "checkItem": {
+          "id": "60f56406bda27b6bd8bec2be",
+          "name": "Crear proyecto @ionic",
+          "state": "complete"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2021-07-21T11:30:56.873Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f8056d02ed016669c50b48",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "idList": "60f538326c9c6c8f734c4a59"
+        },
+        "card": {
+          "idList": "60f538326c9c6c8f734c4a5a",
+          "id": "60f55364a389210311cdffc5",
+          "name": "Spike: Crear PostCard",
+          "idShort": 5,
+          "shortLink": "fpWoxndy"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "listBefore": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "listAfter": {
+          "id": "60f538326c9c6c8f734c4a5a",
+          "name": "En proceso"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-21T11:30:53.352Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f8056b867ba98af3f386dd",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "idList": "60f538326c9c6c8f734c4a5a"
+        },
+        "card": {
+          "idList": "60f538326c9c6c8f734c4a5b",
+          "id": "60f5388f7cb9a618218d8d4a",
+          "name": "Arquitectura Aplicación",
+          "idShort": 2,
+          "shortLink": "1nibTF8m"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "listBefore": {
+          "id": "60f538326c9c6c8f734c4a5a",
+          "name": "En proceso"
+        },
+        "listAfter": {
+          "id": "60f538326c9c6c8f734c4a5b",
+          "name": "Hecho"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-21T11:30:51.844Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f56444fc1de31511886d9e",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "idList": "60f538326c9c6c8f734c4a59"
+        },
+        "card": {
+          "idList": "60f538326c9c6c8f734c4a5a",
+          "id": "60f5388f7cb9a618218d8d4a",
+          "name": "Arquitectura Aplicación",
+          "idShort": 2,
+          "shortLink": "1nibTF8m"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "listBefore": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "listAfter": {
+          "id": "60f538326c9c6c8f734c4a5a",
+          "name": "En proceso"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-19T11:38:44.116Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f563cf30c7c56be00df687",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "name": "Creación proyecto IONIC"
+        },
+        "checklist": {
+          "name": "Creación proyecto",
+          "id": "60f5639df12ba5421e84c1d3"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "card": {
+          "id": "60f5388f7cb9a618218d8d4a",
+          "name": "Arquitectura Aplicación",
+          "idShort": 2,
+          "shortLink": "1nibTF8m"
+        }
+      },
+      "type": "updateChecklist",
+      "date": "2021-07-19T11:36:47.318Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f5639ef12ba5421e84c1d7",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "card": {
+          "id": "60f5388f7cb9a618218d8d4a",
+          "name": "Arquitectura Aplicación",
+          "idShort": 2,
+          "shortLink": "1nibTF8m"
+        },
+        "checklist": {
+          "id": "60f5639df12ba5421e84c1d3",
+          "name": "Creación proyecto IONIC"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        }
+      },
+      "type": "addChecklistToCard",
+      "date": "2021-07-19T11:35:58.005Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f5637a9e18d566de3c199b",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "card": {
+          "id": "60f53849034263614d5446e3",
+          "name": "Diseño y Navegación de la aplicación",
+          "idShort": 1,
+          "shortLink": "hy7liMsS"
+        },
+        "checklist": {
+          "id": "60f53a7ebf0d4f1496857087",
+          "name": "Implementar"
+        },
+        "checkItem": {
+          "id": "60f53b1d9772f7454d44a7d5",
+          "name": "Navegación Aplicación",
+          "state": "complete"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2021-07-19T11:35:22.323Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f5637912f8006d1b1cf4f5",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "card": {
+          "id": "60f53849034263614d5446e3",
+          "name": "Diseño y Navegación de la aplicación",
+          "idShort": 1,
+          "shortLink": "hy7liMsS"
+        },
+        "checklist": {
+          "id": "60f53a7ebf0d4f1496857087",
+          "name": "Implementar"
+        },
+        "checkItem": {
+          "id": "60f53b0e9d982b2f64b1c963",
+          "name": "Wireframe Aplicación",
+          "state": "complete"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2021-07-19T11:35:21.792Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f5637572b25b581d2a528d",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "idList": "60f538326c9c6c8f734c4a5a"
+        },
+        "card": {
+          "idList": "60f538326c9c6c8f734c4a5b",
+          "id": "60f53849034263614d5446e3",
+          "name": "Diseño y Navegación de la aplicación",
+          "idShort": 1,
+          "shortLink": "hy7liMsS"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "listBefore": {
+          "id": "60f538326c9c6c8f734c4a5a",
+          "name": "En proceso"
+        },
+        "listAfter": {
+          "id": "60f538326c9c6c8f734c4a5b",
+          "name": "Hecho"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-19T11:35:17.092Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f5537645dc5642ff976966",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "attachment": {
+          "id": "60f5537645dc5642ff976963",
+          "name": "Styling web forms",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn/Forms/Styling_web_forms"
+        },
+        "card": {
+          "id": "60f55364a389210311cdffc5",
+          "name": "Spike: Crear PostCard",
+          "idShort": 5,
+          "shortLink": "fpWoxndy"
+        },
+        "list": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        }
+      },
+      "type": "addAttachmentToCard",
+      "date": "2021-07-19T10:27:02.101Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f55364a389210311cdffc9",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "card": {
+          "id": "60f55364a389210311cdffc5",
+          "name": "Spike: Crear PostCard",
+          "idShort": 5,
+          "shortLink": "fpWoxndy"
+        },
+        "list": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        }
+      },
+      "type": "createCard",
+      "date": "2021-07-19T10:26:44.680Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f53b9a52ca301ff69c9683",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "idList": "60f538326c9c6c8f734c4a59"
+        },
+        "card": {
+          "idList": "60f538326c9c6c8f734c4a5a",
+          "id": "60f53849034263614d5446e3",
+          "name": "Diseño y Navegación de la aplicación",
+          "idShort": 1,
+          "shortLink": "hy7liMsS"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "listBefore": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "listAfter": {
+          "id": "60f538326c9c6c8f734c4a5a",
+          "name": "En proceso"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-19T08:45:14.392Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f53b85a2d67122851205c8",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "attachment": {
+          "id": "60f53b85a2d67122851205c5",
+          "name": "Documentación #1",
+          "url": "https://medium.com/@mesasergio/creaci%C3%B3n-de-componente-autenticaci%C3%B3n-y-registro-con-angular-firebase-2-92c8926fd09d"
+        },
+        "card": {
+          "id": "60f538a89dd1565791376dda",
+          "name": "Creación de componente Autenticación y Registro",
+          "idShort": 4,
+          "shortLink": "YuiSbCB5"
+        },
+        "list": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        }
+      },
+      "type": "addAttachmentToCard",
+      "date": "2021-07-19T08:44:53.576Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f53b4a59e3153f05bee029",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "card": {
+          "id": "60f538a89dd1565791376dda",
+          "name": "Creación de componente Autenticación y Registro",
+          "idShort": 4,
+          "shortLink": "YuiSbCB5"
+        },
+        "checklist": {
+          "id": "60f53b4a59e3153f05bee025",
+          "name": "Implementar"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        }
+      },
+      "type": "addChecklistToCard",
+      "date": "2021-07-19T08:43:54.291Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f53b3fb727b6278c53afb9",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "name": "Crear componentes"
+        },
+        "card": {
+          "name": "Creación de componente Autenticación y Registro",
+          "id": "60f538a89dd1565791376dda",
+          "idShort": 4,
+          "shortLink": "YuiSbCB5"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "list": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-19T08:43:43.858Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f53a7ebf0d4f149685708b",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "card": {
+          "id": "60f53849034263614d5446e3",
+          "name": "Diseño y Navegación de la aplicación",
+          "idShort": 1,
+          "shortLink": "hy7liMsS"
+        },
+        "checklist": {
+          "id": "60f53a7ebf0d4f1496857087",
+          "name": "Implementar"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        }
+      },
+      "type": "addChecklistToCard",
+      "date": "2021-07-19T08:40:30.855Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f53a32f8f04e84db4c20be",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "attachment": {
+          "id": "60f53a32f8f04e84db4c20bb",
+          "name": "Documentación #2",
+          "url": "https://medium.com/@mesasergio/creaci%C3%B3n-de-componente-autenticaci%C3%B3n-y-registro-con-angular-firebase-2-92c8926fd09d"
+        },
+        "card": {
+          "id": "60f5389c3eb0401d0cb85c93",
+          "name": "Autenticación y Registro con Angular & Firebase",
+          "idShort": 3,
+          "shortLink": "s41QROAB"
+        },
+        "list": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        }
+      },
+      "type": "addAttachmentToCard",
+      "date": "2021-07-19T08:39:14.041Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f53a0fea5b6639865d45ba",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "attachment": {
+          "id": "60f53a0fea5b6639865d45b7",
+          "name": "Documentación",
+          "url": "https://medium.com/@mesasergio/creaci%C3%B3n-de-componente-autenticaci%C3%B3n-y-registro-con-angular-firebase-1-8edbe14cb489"
+        },
+        "card": {
+          "id": "60f5389c3eb0401d0cb85c93",
+          "name": "Autenticación y Registro con Angular & Firebase",
+          "idShort": 3,
+          "shortLink": "s41QROAB"
+        },
+        "list": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        }
+      },
+      "type": "addAttachmentToCard",
+      "date": "2021-07-19T08:38:39.768Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f5390d22f41d03860b7361",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "card": {
+          "id": "60f5389c3eb0401d0cb85c93",
+          "name": "Autenticación y Registro con Angular & Firebase",
+          "idShort": 3,
+          "shortLink": "s41QROAB"
+        },
+        "checklist": {
+          "id": "60f5390d22f41d03860b735d",
+          "name": "Implementar"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        }
+      },
+      "type": "addChecklistToCard",
+      "date": "2021-07-19T08:34:21.705Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f538e5e6fe3238124646d0",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "pos": 196607
+        },
+        "card": {
+          "pos": 98303,
+          "id": "60f5389c3eb0401d0cb85c93",
+          "name": "Autenticación y Registro con Angular & Firebase",
+          "idShort": 3,
+          "shortLink": "s41QROAB"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "list": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-19T08:33:41.973Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f538e5e6fe3238124646cb",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "idList": "60f538326c9c6c8f734c4a5a"
+        },
+        "card": {
+          "idList": "60f538326c9c6c8f734c4a59",
+          "id": "60f5389c3eb0401d0cb85c93",
+          "name": "Autenticación y Registro con Angular & Firebase",
+          "idShort": 3,
+          "shortLink": "s41QROAB"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "listBefore": {
+          "id": "60f538326c9c6c8f734c4a5a",
+          "name": "En proceso"
+        },
+        "listAfter": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-19T08:33:41.951Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f538ae1416e0129b7150b2",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "idList": "60f538326c9c6c8f734c4a59"
+        },
+        "card": {
+          "idList": "60f538326c9c6c8f734c4a5a",
+          "id": "60f5389c3eb0401d0cb85c93",
+          "name": "Autenticación y Registro con Angular & Firebase",
+          "idShort": 3,
+          "shortLink": "s41QROAB"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "listBefore": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "listAfter": {
+          "id": "60f538326c9c6c8f734c4a5a",
+          "name": "En proceso"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-19T08:32:46.792Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f538ad5a9f0708f5979c0a",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "idList": "60f538326c9c6c8f734c4a5a"
+        },
+        "card": {
+          "idList": "60f538326c9c6c8f734c4a59",
+          "id": "60f53849034263614d5446e3",
+          "name": "Diseño y Navegación de la aplicación",
+          "idShort": 1,
+          "shortLink": "hy7liMsS"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "listBefore": {
+          "id": "60f538326c9c6c8f734c4a5a",
+          "name": "En proceso"
+        },
+        "listAfter": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-19T08:32:45.897Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f538aaf0817e62aa43e63c",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "old": {
+          "idList": "60f538326c9c6c8f734c4a59"
+        },
+        "card": {
+          "idList": "60f538326c9c6c8f734c4a5a",
+          "id": "60f53849034263614d5446e3",
+          "name": "Diseño y Navegación de la aplicación",
+          "idShort": 1,
+          "shortLink": "hy7liMsS"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "listBefore": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "listAfter": {
+          "id": "60f538326c9c6c8f734c4a5a",
+          "name": "En proceso"
+        }
+      },
+      "type": "updateCard",
+      "date": "2021-07-19T08:32:42.454Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f538a89dd1565791376dde",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "card": {
+          "id": "60f538a89dd1565791376dda",
+          "name": "Crear componentes",
+          "idShort": 4,
+          "shortLink": "YuiSbCB5"
+        },
+        "list": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        }
+      },
+      "type": "createCard",
+      "date": "2021-07-19T08:32:40.957Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f5389c3eb0401d0cb85c97",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "card": {
+          "id": "60f5389c3eb0401d0cb85c93",
+          "name": "Autenticación y Registro con Angular & Firebase",
+          "idShort": 3,
+          "shortLink": "s41QROAB"
+        },
+        "list": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        }
+      },
+      "type": "createCard",
+      "date": "2021-07-19T08:32:28.102Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f5388f7cb9a618218d8d4e",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "card": {
+          "id": "60f5388f7cb9a618218d8d4a",
+          "name": "Arquitectura Aplicación",
+          "idShort": 2,
+          "shortLink": "1nibTF8m"
+        },
+        "list": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        }
+      },
+      "type": "createCard",
+      "date": "2021-07-19T08:32:15.854Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f53849034263614d5446e7",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "card": {
+          "id": "60f53849034263614d5446e3",
+          "name": "Diseño y Navegación de la aplicación",
+          "idShort": 1,
+          "shortLink": "hy7liMsS"
+        },
+        "list": {
+          "id": "60f538326c9c6c8f734c4a59",
+          "name": "Lista de tareas"
+        },
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        }
+      },
+      "type": "createCard",
+      "date": "2021-07-19T08:31:05.387Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f538326c9c6c8f734c4a63",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        },
+        "organization": {
+          "id": "60420ed8a534346af508fdf8",
+          "name": "Espacio de trabajo de Trello"
+        }
+      },
+      "type": "addToOrganizationBoard",
+      "date": "2021-07-19T08:30:42.573Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    },
+    {
+      "id": "60f538326c9c6c8f734c4a60",
+      "idMemberCreator": "581b0b46d9959f03163a1377",
+      "data": {
+        "creationMethod": "automatic",
+        "board": {
+          "id": "60f538326c9c6c8f734c4a58",
+          "name": "proyecto-front-end",
+          "shortLink": "MEM8sZVr"
+        }
+      },
+      "type": "createBoard",
+      "date": "2021-07-19T08:30:42.569Z",
+      "appCreator": null,
+      "limits": {},
+      "memberCreator": {
+        "id": "581b0b46d9959f03163a1377",
+        "activityBlocked": false,
+        "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+        "fullName": "Ricard Garcia Mirayo",
+        "idMemberReferrer": null,
+        "initials": "RM",
+        "nonPublic": {
+          "fullName": "Ricard Garcia Mirayo",
+          "initials": "RM",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "ricardgarciamirayo"
+      }
+    }
+  ],
+  "cards": [
+    {
+      "id": "60f5389c3eb0401d0cb85c93",
+      "address": null,
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dateLastActivity": "2021-07-19T08:39:23.855Z",
+      "desc": "",
+      "descData": null,
+      "dueReminder": null,
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "idLabels": [],
+      "idList": "60f538326c9c6c8f734c4a59",
+      "idMembersVoted": [],
+      "idShort": 3,
+      "idAttachmentCover": null,
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Autenticación y Registro con Angular & Firebase",
+      "pos": 98303,
+      "shortLink": "s41QROAB",
+      "isTemplate": false,
+      "cardRole": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 3,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 2,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "dueComplete": false,
+      "due": null,
+      "email": "ricardgarciam+2n64j6wmwdr270ksvp3+2wqcy63g1jvtlq5l2fn+2n280r3gr3@boards.trello.com",
+      "idChecklists": [
+        "60f5390d22f41d03860b735d"
+      ],
+      "idMembers": [],
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/s41QROAB",
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/s41QROAB/3-autenticaci%C3%B3n-y-registro-con-angular-firebase",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "attachments": [
+        {
+          "bytes": null,
+          "date": "2021-07-19T08:38:39.761Z",
+          "edgeColor": null,
+          "idMember": "581b0b46d9959f03163a1377",
+          "isUpload": false,
+          "mimeType": "",
+          "name": "Documentación #1",
+          "previews": [],
+          "url": "https://medium.com/@mesasergio/creaci%C3%B3n-de-componente-autenticaci%C3%B3n-y-registro-con-angular-firebase-1-8edbe14cb489",
+          "pos": 16384,
+          "id": "60f53a0fea5b6639865d45b7"
+        },
+        {
+          "bytes": null,
+          "date": "2021-07-19T08:39:14.034Z",
+          "edgeColor": null,
+          "idMember": "581b0b46d9959f03163a1377",
+          "isUpload": false,
+          "mimeType": "",
+          "name": "Documentación #2",
+          "previews": [],
+          "url": "https://medium.com/@mesasergio/creaci%C3%B3n-de-componente-autenticaci%C3%B3n-y-registro-con-angular-firebase-2-92c8926fd09d",
+          "pos": 32768,
+          "id": "60f53a32f8f04e84db4c20bb"
+        }
+      ],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "60f55364a389210311cdffc5",
+      "address": null,
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dateLastActivity": "2021-07-21T11:30:53.341Z",
+      "desc": "",
+      "descData": null,
+      "dueReminder": null,
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "idLabels": [],
+      "idList": "60f538326c9c6c8f734c4a5a",
+      "idMembersVoted": [],
+      "idShort": 5,
+      "idAttachmentCover": null,
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Spike: Crear PostCard",
+      "pos": 327679,
+      "shortLink": "fpWoxndy",
+      "isTemplate": false,
+      "cardRole": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 1,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "dueComplete": false,
+      "due": null,
+      "email": "ricardgarciam+2n64j6wmwdr270ksvp3+2wqdirjport8c13vwzp+1rpdgbm5tf@boards.trello.com",
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/fpWoxndy",
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/fpWoxndy/5-spike-crear-postcard",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "attachments": [
+        {
+          "bytes": null,
+          "date": "2021-07-19T10:27:02.095Z",
+          "edgeColor": null,
+          "idMember": "581b0b46d9959f03163a1377",
+          "isUpload": false,
+          "mimeType": "",
+          "name": "Styling web forms",
+          "previews": [],
+          "url": "https://developer.mozilla.org/en-US/docs/Learn/Forms/Styling_web_forms",
+          "pos": 16384,
+          "id": "60f5537645dc5642ff976963"
+        }
+      ],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "60f53849034263614d5446e3",
+      "address": null,
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dateLastActivity": "2021-07-19T11:35:22.341Z",
+      "desc": "",
+      "descData": null,
+      "dueReminder": null,
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "idLabels": [],
+      "idList": "60f538326c9c6c8f734c4a5b",
+      "idMembersVoted": [],
+      "idShort": 1,
+      "idAttachmentCover": null,
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Diseño y Navegación de la aplicación",
+      "pos": 65535,
+      "shortLink": "hy7liMsS",
+      "isTemplate": false,
+      "cardRole": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 2,
+        "checkItemsChecked": 2,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "dueComplete": false,
+      "due": null,
+      "email": "ricardgarciam+2n64j6wmwdr270ksvp3+2wqcxx3f2y239yn10bn+1q9zkld9nk@boards.trello.com",
+      "idChecklists": [
+        "60f53a7ebf0d4f1496857087"
+      ],
+      "idMembers": [],
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/hy7liMsS",
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/hy7liMsS/1-dise%C3%B1o-y-navegaci%C3%B3n-de-la-aplicaci%C3%B3n",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "60f5388f7cb9a618218d8d4a",
+      "address": null,
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dateLastActivity": "2021-07-21T11:30:59.784Z",
+      "desc": "",
+      "descData": null,
+      "dueReminder": null,
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "idLabels": [],
+      "idList": "60f538326c9c6c8f734c4a5b",
+      "idMembersVoted": [],
+      "idShort": 2,
+      "idAttachmentCover": null,
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Arquitectura Aplicación",
+      "pos": 131071,
+      "shortLink": "1nibTF8m",
+      "isTemplate": false,
+      "cardRole": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 3,
+        "checkItemsChecked": 3,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "dueComplete": false,
+      "due": null,
+      "email": "ricardgarciam+2n64j6wmwdr270ksvp3+2wqcy4ps251uddsoax6+0awroywqrx@boards.trello.com",
+      "idChecklists": [
+        "60f5639df12ba5421e84c1d3"
+      ],
+      "idMembers": [],
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/1nibTF8m",
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/1nibTF8m/2-arquitectura-aplicaci%C3%B3n",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "60f9213223bfbd574c7a1654",
+      "address": null,
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dateLastActivity": "2021-07-22T07:41:40.117Z",
+      "desc": "",
+      "descData": null,
+      "dueReminder": null,
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "idLabels": [],
+      "idList": "60f538326c9c6c8f734c4a5b",
+      "idMembersVoted": [],
+      "idShort": 6,
+      "idAttachmentCover": null,
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Spike: Framework IONIC",
+      "pos": 458751,
+      "shortLink": "To5pqWdt",
+      "isTemplate": false,
+      "cardRole": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "dueComplete": false,
+      "due": null,
+      "email": "ricardgarciam+2n64j6wmwdr270ksvp3+2wqybm76dyxscuq5ahg+04ls2xt06q@boards.trello.com",
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/To5pqWdt",
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/To5pqWdt/6-spike-framework-ionic",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "60f9214bbc040f8476578e6d",
+      "address": null,
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dateLastActivity": "2021-07-22T07:42:04.320Z",
+      "desc": "",
+      "descData": null,
+      "dueReminder": null,
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "idLabels": [],
+      "idList": "60f538326c9c6c8f734c4a5b",
+      "idMembersVoted": [],
+      "idShort": 7,
+      "idAttachmentCover": null,
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Creación componente Lista de PostCard",
+      "pos": 524287,
+      "shortLink": "MvpnpQ7r",
+      "isTemplate": false,
+      "cardRole": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "dueComplete": false,
+      "due": null,
+      "email": "ricardgarciam+2n64j6wmwdr270ksvp3+2wqyboytho7kz03wzfx+10pm31qn0a@boards.trello.com",
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/MvpnpQ7r",
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/MvpnpQ7r/7-creaci%C3%B3n-componente-lista-de-postcard",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "60f538a89dd1565791376dda",
+      "address": null,
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dateLastActivity": "2021-07-22T07:42:17.519Z",
+      "desc": "",
+      "descData": null,
+      "dueReminder": null,
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "idLabels": [],
+      "idList": "60f538326c9c6c8f734c4a5b",
+      "idMembersVoted": [],
+      "idShort": 4,
+      "idAttachmentCover": null,
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Creación de componente Autenticación y Registro",
+      "pos": 589823,
+      "shortLink": "YuiSbCB5",
+      "isTemplate": false,
+      "cardRole": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 4,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 1,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "dueComplete": false,
+      "due": null,
+      "email": "ricardgarciam+2n64j6wmwdr270ksvp3+2wqcy7flx36i098xwbe+2ltc6ym191@boards.trello.com",
+      "idChecklists": [
+        "60f53b4a59e3153f05bee025"
+      ],
+      "idMembers": [],
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/YuiSbCB5",
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/YuiSbCB5/4-creaci%C3%B3n-de-componente-autenticaci%C3%B3n-y-registro",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "attachments": [
+        {
+          "bytes": null,
+          "date": "2021-07-19T08:44:53.570Z",
+          "edgeColor": null,
+          "idMember": "581b0b46d9959f03163a1377",
+          "isUpload": false,
+          "mimeType": "",
+          "name": "Documentación #1",
+          "previews": [],
+          "url": "https://medium.com/@mesasergio/creaci%C3%B3n-de-componente-autenticaci%C3%B3n-y-registro-con-angular-firebase-2-92c8926fd09d",
+          "pos": 16384,
+          "id": "60f53b85a2d67122851205c5"
+        }
+      ],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "60f921a15c1c694cb28e4586",
+      "address": null,
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dateLastActivity": "2021-07-22T07:43:31.080Z",
+      "desc": "",
+      "descData": null,
+      "dueReminder": null,
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "idLabels": [],
+      "idList": "60f538326c9c6c8f734c4a5b",
+      "idMembersVoted": [],
+      "idShort": 8,
+      "idAttachmentCover": null,
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Integración API Pixabay",
+      "pos": 655359,
+      "shortLink": "NnnNRads",
+      "isTemplate": false,
+      "cardRole": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "dueComplete": false,
+      "due": null,
+      "email": "ricardgarciam+2n64j6wmwdr270ksvp3+2wqyby85v1eb6r3cl8m+24qt1q69oy@boards.trello.com",
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "shortUrl": "https://trello.com/c/NnnNRads",
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/NnnNRads/8-integraci%C3%B3n-api-pixabay",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    }
+  ],
+  "labels": [
+    {
+      "id": "60f53832d41eeff1fab2b80e",
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "name": "",
+      "color": "green"
+    },
+    {
+      "id": "60f53832d41eeff1fab2b810",
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "name": "",
+      "color": "yellow"
+    },
+    {
+      "id": "60f53832d41eeff1fab2b813",
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "name": "",
+      "color": "orange"
+    },
+    {
+      "id": "60f53832d41eeff1fab2b81b",
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "name": "",
+      "color": "red"
+    },
+    {
+      "id": "60f53832d41eeff1fab2b81d",
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "name": "",
+      "color": "purple"
+    },
+    {
+      "id": "60f53832d41eeff1fab2b820",
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "name": "",
+      "color": "blue"
+    }
+  ],
+  "lists": [
+    {
+      "id": "60f538326c9c6c8f734c4a59",
+      "name": "Lista de tareas",
+      "closed": false,
+      "pos": 16384,
+      "softLimit": null,
+      "creationMethod": "automatic",
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      },
+      "subscribed": false
+    },
+    {
+      "id": "60f538326c9c6c8f734c4a5a",
+      "name": "En proceso",
+      "closed": false,
+      "pos": 32768,
+      "softLimit": null,
+      "creationMethod": "automatic",
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      },
+      "subscribed": false
+    },
+    {
+      "id": "60f538326c9c6c8f734c4a5b",
+      "name": "Hecho",
+      "closed": false,
+      "pos": 49152,
+      "softLimit": null,
+      "creationMethod": "automatic",
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      },
+      "subscribed": false
+    }
+  ],
+  "members": [
+    {
+      "id": "581b0b46d9959f03163a1377",
+      "activityBlocked": false,
+      "avatarHash": "ad83cfc0b67d52dba78e3af46ccd18c7",
+      "avatarUrl": "https://trello-members.s3.amazonaws.com/581b0b46d9959f03163a1377/ad83cfc0b67d52dba78e3af46ccd18c7",
+      "bio": "",
+      "bioData": null,
+      "confirmed": true,
+      "fullName": "Ricard Garcia Mirayo",
+      "idEnterprise": null,
+      "idEnterprisesDeactivated": [],
+      "idMemberReferrer": null,
+      "idPremOrgsAdmin": [],
+      "initials": "RM",
+      "memberType": "normal",
+      "nonPublic": {
+        "fullName": "Ricard Garcia Mirayo",
+        "initials": "RM",
+        "avatarHash": null
+      },
+      "nonPublicAvailable": true,
+      "products": [],
+      "url": "https://trello.com/ricardgarciamirayo",
+      "username": "ricardgarciamirayo",
+      "status": "disconnected"
+    }
+  ],
+  "checklists": [
+    {
+      "id": "60f5390d22f41d03860b735d",
+      "name": "Implementar",
+      "idCard": "60f5389c3eb0401d0cb85c93",
+      "pos": 16384,
+      "creationMethod": null,
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "limits": {
+        "checkItems": {
+          "perChecklist": {
+            "status": "ok",
+            "disableAt": 200,
+            "warnAt": 180
+          }
+        }
+      },
+      "checkItems": [
+        {
+          "idChecklist": "60f5390d22f41d03860b735d",
+          "state": "incomplete",
+          "id": "60f53927d319196811e80ba6",
+          "name": "Instalación Angular Cli, Creación de proyecto, Instalación de Angular/material, Instalación de AngularFire2",
+          "nameData": null,
+          "pos": 16482,
+          "due": null,
+          "idMember": null
+        },
+        {
+          "idChecklist": "60f5390d22f41d03860b735d",
+          "state": "incomplete",
+          "id": "60f5393514d7d86856c32bf0",
+          "name": "Creación de AuthFirebaseService",
+          "nameData": null,
+          "pos": 33349,
+          "due": null,
+          "idMember": null
+        },
+        {
+          "idChecklist": "60f5390d22f41d03860b735d",
+          "state": "incomplete",
+          "id": "60f5393fb38ab1733ac72312",
+          "name": "Creación de componente Registro, componente Ingreso y página de autenticación.",
+          "nameData": null,
+          "pos": 50002,
+          "due": null,
+          "idMember": null
+        }
+      ]
+    },
+    {
+      "id": "60f53a7ebf0d4f1496857087",
+      "name": "Implementar",
+      "idCard": "60f53849034263614d5446e3",
+      "pos": 16384,
+      "creationMethod": null,
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "limits": {
+        "checkItems": {
+          "perChecklist": {
+            "status": "ok",
+            "disableAt": 200,
+            "warnAt": 180
+          }
+        }
+      },
+      "checkItems": [
+        {
+          "idChecklist": "60f53a7ebf0d4f1496857087",
+          "state": "complete",
+          "id": "60f53b0e9d982b2f64b1c963",
+          "name": "Wireframe Aplicación",
+          "nameData": null,
+          "pos": 16799,
+          "due": null,
+          "idMember": null
+        },
+        {
+          "idChecklist": "60f53a7ebf0d4f1496857087",
+          "state": "complete",
+          "id": "60f53b1d9772f7454d44a7d5",
+          "name": "Navegación Aplicación",
+          "nameData": null,
+          "pos": 33188,
+          "due": null,
+          "idMember": null
+        }
+      ]
+    },
+    {
+      "id": "60f53b4a59e3153f05bee025",
+      "name": "Implementar",
+      "idCard": "60f538a89dd1565791376dda",
+      "pos": 16384,
+      "creationMethod": null,
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "limits": {
+        "checkItems": {
+          "perChecklist": {
+            "status": "ok",
+            "disableAt": 200,
+            "warnAt": 180
+          }
+        }
+      },
+      "checkItems": [
+        {
+          "idChecklist": "60f53b4a59e3153f05bee025",
+          "state": "incomplete",
+          "id": "60f53b5585e1fd2741f00191",
+          "name": "Registrar un usuario nuevo con un correo electrónico y una contraseña",
+          "nameData": null,
+          "pos": 16603,
+          "due": null,
+          "idMember": null
+        },
+        {
+          "idChecklist": "60f53b4a59e3153f05bee025",
+          "state": "incomplete",
+          "id": "60f53b5f7928326812865ce8",
+          "name": "Iniciar sesión con un correo electrónico y una contraseña",
+          "nameData": null,
+          "pos": 33404,
+          "due": null,
+          "idMember": null
+        },
+        {
+          "idChecklist": "60f53b4a59e3153f05bee025",
+          "state": "incomplete",
+          "id": "60f53b669b022b758acdf28b",
+          "name": "Validar si un usuario esta o no autenticado",
+          "nameData": null,
+          "pos": 49982,
+          "due": null,
+          "idMember": null
+        },
+        {
+          "idChecklist": "60f53b4a59e3153f05bee025",
+          "state": "incomplete",
+          "id": "60f53b6e2f49ca1d88e9d374",
+          "name": "Recuperar la información de un usuario autenticado",
+          "nameData": null,
+          "pos": 67005,
+          "due": null,
+          "idMember": null
+        }
+      ]
+    },
+    {
+      "id": "60f5639df12ba5421e84c1d3",
+      "name": "Creación proyecto",
+      "idCard": "60f5388f7cb9a618218d8d4a",
+      "pos": 16384,
+      "creationMethod": null,
+      "idBoard": "60f538326c9c6c8f734c4a58",
+      "limits": {
+        "checkItems": {
+          "perChecklist": {
+            "status": "ok",
+            "disableAt": 200,
+            "warnAt": 180
+          }
+        }
+      },
+      "checkItems": [
+        {
+          "idChecklist": "60f5639df12ba5421e84c1d3",
+          "state": "complete",
+          "id": "60f563c0b43d990a40ceadc2",
+          "name": "Añadir wireframes proyecto fornt-end",
+          "nameData": null,
+          "pos": 16708,
+          "due": null,
+          "idMember": null
+        },
+        {
+          "idChecklist": "60f5639df12ba5421e84c1d3",
+          "state": "complete",
+          "id": "60f56406bda27b6bd8bec2be",
+          "name": "Crear proyecto @ionic",
+          "nameData": null,
+          "pos": 8354,
+          "due": null,
+          "idMember": null
+        },
+        {
+          "idChecklist": "60f5639df12ba5421e84c1d3",
+          "state": "complete",
+          "id": "60f5642ebbbb1609615d23b7",
+          "name": "Crear componentes @angular/ionoc",
+          "nameData": null,
+          "pos": 33115,
+          "due": null,
+          "idMember": null
+        }
+      ]
+    }
+  ],
+  "customFields": [],
+  "memberships": [
+    {
+      "id": "60f538326c9c6c8f734c4a5c",
+      "idMember": "581b0b46d9959f03163a1377",
+      "memberType": "admin",
+      "unconfirmed": false,
+      "deactivated": false
+    }
+  ],
+  "pluginData": []
+}

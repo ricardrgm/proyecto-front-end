@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-title>Photos</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <!-- <ion-list>
+    <ion-item *ngFor="let item of images?.hits">
+      <ion-thumbnail slot="start">
+        <ion-img [src]="item?.largeImageURL"></ion-img>
+      </ion-thumbnail>
+      <ion-label>{{item.user}} {{item.tags}}</ion-label>
+    </ion-item>
+  </ion-list> -->
+  <ion-grid>
+    <ion-row *ngFor="let image of images?.hits">
+      <ion-col class="ion-align-self-center">
+        <ion-img [src]="image?.largeImageURL"></ion-img>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>
+
+<ion-footer>
+  <div padding>
+    <ion-button expand="block" routerLink="/home" routerDirection="root">
+      Home
+    </ion-button>
+  </div>
+</ion-footer>
